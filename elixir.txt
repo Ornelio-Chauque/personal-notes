@@ -1,0 +1,3 @@
+Elixir best features:
+- High aviabillity - You can create many instance of many process
+- Fault tolerance - you can set strategy to deal with process crush, defining how to recovery. 
